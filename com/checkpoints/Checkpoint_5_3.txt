@@ -1,0 +1,1 @@
+None of the nested if's can be executed no matter what value have the variable score.

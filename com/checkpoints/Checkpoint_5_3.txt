@@ -1,1 +1,2 @@
+Prints F  if score is less than 60 and D otherwise
 None of the nested if's can be executed no matter what value have the variable score.

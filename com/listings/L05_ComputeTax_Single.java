@@ -2,7 +2,7 @@ package com.listings;
 
 import java.util.Scanner;
 
-public class L04_ComputeTax_Single
+public class L05_ComputeTax_Single
 {
     public static void main(String[] args)
     {

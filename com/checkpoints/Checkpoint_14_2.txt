@@ -1,0 +1,1 @@
+ticketPrice = (ages >= 16) ? 20 : 10;

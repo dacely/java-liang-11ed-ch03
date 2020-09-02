@@ -24,7 +24,7 @@ public class E03_CramersRule
 
         double det = a*d - b*c;
 
-        if (det == 0)
+        if (Math.abs(det) < 1E-14)
             System.out.println("La equacion no tiene solucion.");
         else
         {
